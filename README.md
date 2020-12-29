@@ -1,2 +1,2 @@
 # RPG-Game
-RPG Game made in Unity
+Developed an aesthetic open world RPG game featuring, an enemy AI detection system influencing each enemy’s Idle,Patrol,Chase,Attack state. Multiple interactables, such as a player speed boost, health pack, level portal and coins in places that promoted exploration of the map and were needed to complete the level. A tasteful medieval themed graphical style, backing track and user interface, as well as a variety of player attacks that made use of various eye-catching animations. 
